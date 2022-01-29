@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/menu_tabbar.iml" filepath="$PROJECT_DIR$/menu_tabbar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/menu_tabbar_android.iml" filepath="$PROJECT_DIR$/android/menu_tabbar_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gooey_tabbar_flutter.iml" filepath="$PROJECT_DIR$/gooey_tabbar_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/gooey_tabbar_flutter_android.iml" filepath="$PROJECT_DIR$/android/gooey_tabbar_flutter_android.iml" />
     </modules>
   </component>
 </project>

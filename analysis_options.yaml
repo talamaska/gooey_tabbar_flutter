@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+  errors:
+    missing_required_param: warning
+  exclude:
+    - "bin/cache/**"
+
+linter:
+  rules:
+    - always_specify_types
